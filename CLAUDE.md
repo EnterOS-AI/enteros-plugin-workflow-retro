@@ -53,7 +53,7 @@ be written by the cron-learnings plugin each tick.
 ### Setup
 
 ```bash
-git clone https://github.com/Molecule-AI/molecule-ai-plugin-molecule-workflow-retro.git
+git clone https://git.moleculesai.app/molecule-ai/molecule-ai-plugin-molecule-workflow-retro.git
 cd molecule-ai-plugin-molecule-workflow-retro
 
 python3 -c "import yaml; yaml.safe_load(open('plugin.yaml'))"
